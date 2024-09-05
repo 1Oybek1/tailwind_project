@@ -1,0 +1,10 @@
+.card{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    color: aliceblue;
+    padding: 20px;
+}
+h1{
+    margin-bottom: 10px;
+}
